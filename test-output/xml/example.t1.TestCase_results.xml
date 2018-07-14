@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="接口测试"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.938">
+  <properties />
+  
+  
+            <testcase name="normal" time="0.658" classname="example.t1.TestCase" />
+                <testcase name="normal" time="0.055" classname="example.t1.TestCase" />
+                <testcase name="testNormal" time="0.063" classname="example.t1.TestCase" />
+                <testcase name="normal" time="0.057" classname="example.t1.TestCase" />
+                <testcase name="normal" time="0.054" classname="example.t1.TestCase" />
+                <testcase name="normal" time="0.051" classname="example.t1.TestCase" />
+      
+</testsuite>

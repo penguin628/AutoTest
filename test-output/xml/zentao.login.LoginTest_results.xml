@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="接口测试"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.135">
+  <properties />
+  
+  
+            <testcase name="normal" time="0.135" classname="zentao.login.LoginTest" />
+      
+</testsuite>

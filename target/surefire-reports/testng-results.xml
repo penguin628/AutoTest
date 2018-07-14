@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="example" duration-ms="2567" started-at="2017-01-11T14:28:35Z" finished-at="2017-01-11T14:28:38Z">
+    <groups>
+      <group name="function">
+        <method signature="TestCase.normal(java.lang.String, java.lang.String, java.lang.String, int)[pri:0, instance:example.t1.TestCase@5b87ed94]" name="normal" class="example.t1.TestCase"/>
+        <method signature="TestCase.testNormal()[pri:0, instance:example.t1.TestCase@5b87ed94]" name="testNormal" class="example.t1.TestCase"/>
+      </group> <!-- function -->
+      <group name="smoke">
+        <method signature="TestCase.normal(java.lang.String, java.lang.String, java.lang.String, int)[pri:0, instance:example.t1.TestCase@5b87ed94]" name="normal" class="example.t1.TestCase"/>
+        <method signature="TestCase.testNormal()[pri:0, instance:example.t1.TestCase@5b87ed94]" name="testNormal" class="example.t1.TestCase"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Ê¾Àý²âÊÔ" duration-ms="2567" started-at="2017-01-11T14:28:35Z" finished-at="2017-01-11T14:28:38Z">
+      <class name="example.t1.TestCase">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:example.t1.TestCase@5b87ed94]" name="beforeSuite" is-config="true" duration-ms="12" started-at="2017-01-11T22:28:35Z" finished-at="2017-01-11T22:28:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:example.t1.TestCase@5b87ed94]" name="beforeClass" is-config="true" duration-ms="0" started-at="2017-01-11T22:28:35Z" finished-at="2017-01-11T22:28:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:example.t1.TestCase@5b87ed94]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-01-11T22:28:35Z" finished-at="2017-01-11T22:28:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="normal(java.lang.String, java.lang.String, java.lang.String, int)[pri:0, instance:example.t1.TestCase@5b87ed94]" name="normal" duration-ms="992" started-at="2017-01-11T22:28:35Z" description="Ê¾Àý" data-provider="testData" finished-at="2017-01-11T22:28:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[normal-1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[¹þ¹þ123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ê¾Àý001]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- normal -->
+        <test-method status="PASS" signature="normal(java.lang.String, java.lang.String, java.lang.String, int)[pri:0, instance:example.t1.TestCase@5b87ed94]" name="normal" duration-ms="249" started-at="2017-01-11T22:28:36Z" description="Ê¾Àý" data-provider="testData" finished-at="2017-01-11T22:28:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[normal-2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[¹þ¹þ124]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ê¾Àý002]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- normal -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:example.t1.TestCase@5b87ed94]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-01-11T22:28:36Z" finished-at="2017-01-11T22:28:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:example.t1.TestCase@5b87ed94]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-01-11T22:28:36Z" finished-at="2017-01-11T22:28:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:example.t1.TestCase@5b87ed94]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-01-11T22:28:36Z" finished-at="2017-01-11T22:28:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="normal(java.lang.String, java.lang.String, java.lang.String, int)[pri:0, instance:example.t1.TestCase@5b87ed94]" name="normal" duration-ms="449" started-at="2017-01-11T22:28:36Z" description="Ê¾Àý" data-provider="testData" finished-at="2017-01-11T22:28:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[normal-3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[¹þ¹þ125]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ê¾Àý003]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- normal -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:example.t1.TestCase@5b87ed94]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-01-11T22:28:36Z" finished-at="2017-01-11T22:28:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:example.t1.TestCase@5b87ed94]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-01-11T22:28:37Z" finished-at="2017-01-11T22:28:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:example.t1.TestCase@5b87ed94]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-01-11T22:28:37Z" finished-at="2017-01-11T22:28:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="normal(java.lang.String, java.lang.String, java.lang.String, int)[pri:0, instance:example.t1.TestCase@5b87ed94]" name="normal" duration-ms="301" started-at="2017-01-11T22:28:37Z" description="Ê¾Àý" data-provider="testData" finished-at="2017-01-11T22:28:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[normal-4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[¹þ¹þ126]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ê¾Àý004]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- normal -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:example.t1.TestCase@5b87ed94]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-01-11T22:28:37Z" finished-at="2017-01-11T22:28:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:example.t1.TestCase@5b87ed94]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-01-11T22:28:37Z" finished-at="2017-01-11T22:28:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="normal(java.lang.String, java.lang.String, java.lang.String, int)[pri:0, instance:example.t1.TestCase@5b87ed94]" name="normal" duration-ms="184" started-at="2017-01-11T22:28:37Z" description="Ê¾Àý" data-provider="testData" finished-at="2017-01-11T22:28:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[normal-5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[¹þ¹þ127]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ê¾Àý005]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- normal -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:example.t1.TestCase@5b87ed94]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-01-11T22:28:37Z" finished-at="2017-01-11T22:28:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="testNormal()[pri:0, instance:example.t1.TestCase@5b87ed94]" name="testNormal" duration-ms="175" started-at="2017-01-11T22:28:37Z" description="Ê¾Àý" finished-at="2017-01-11T22:28:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNormal -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:example.t1.TestCase@5b87ed94]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-01-11T22:28:37Z" finished-at="2017-01-11T22:28:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:example.t1.TestCase@5b87ed94]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-01-11T22:28:38Z" finished-at="2017-01-11T22:28:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="allAfterSuite()[pri:0, instance:example.t1.TestCase@5b87ed94]" name="allAfterSuite" is-config="true" duration-ms="2" started-at="2017-01-11T22:28:38Z" depends-on-methods="example.ExampleTest.afterSuite" finished-at="2017-01-11T22:28:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allAfterSuite -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:example.t1.TestCase@5b87ed94]" name="afterSuite" is-config="true" duration-ms="0" started-at="2017-01-11T22:28:38Z" finished-at="2017-01-11T22:28:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- example.t1.TestCase -->
+    </test> <!-- Ê¾Àý²âÊÔ -->
+  </suite> <!-- example -->
+</testng-results>

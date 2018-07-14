@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Ê¾Àý²âÊÔ"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.350">
+  <properties />
+  
+  
+            <testcase name="testNormal" time="0.175" classname="example.t1.TestCase" />
+                <testcase name="normal" time="0.249" classname="example.t1.TestCase" />
+                <testcase name="normal" time="0.449" classname="example.t1.TestCase" />
+                <testcase name="normal" time="0.184" classname="example.t1.TestCase" />
+                <testcase name="normal" time="0.992" classname="example.t1.TestCase" />
+                <testcase name="normal" time="0.301" classname="example.t1.TestCase" />
+      
+</testsuite>
